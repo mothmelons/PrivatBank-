@@ -1,1 +1,280 @@
+p{
+    color: black;
+}
 
+.balbes{
+   
+    height: 50px;
+    background-color: white;
+    display: flex;
+    padding-top: 30px;
+    flex-wrap: wrap;
+}
+
+
+.logo1{
+    width: 24px;
+    height: 24px;
+    margin-left: 153px;
+    margin-top: 13;
+    
+    float: left;
+}
+
+
+main{
+    
+    width: 1920;
+    height: 2930;
+    margin-top: -36px;
+}
+body{
+    font-family: Arial bold;
+    font-size: 24px;
+    background-image: url("https://cdn.discordapp.com/attachments/1245411514089865268/1270441818043056329/image.png?ex=66baf6e5&is=66b9a565&hm=932657974e8de9beb6370141408f424dc8ffe9bff1f77eac477b21d68e8a4d28&")   
+}
+
+.balbes nav {
+    margin-left: 225px;
+    justify-content: space-around;
+    
+}
+
+main h1{
+    font-size: 45px;
+    width: 876px;
+    margin-left: 240px;
+    padding-top: 50px;
+    font-family: arial bold;
+}
+
+
+.karapuz {
+    margin-left: 153px;
+    height: 100px;
+    margin-top: 55px;
+    background-color: white;
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+.karapuz nav a {
+    font-size: 24px;
+    font-family: arial;
+}
+
+a {
+   padding-left: 50px; 
+}
+
+.balbes nav a{
+    font-size: 24px;
+    font-family: arial;
+    text-decoration: none;
+    color: black;
+}
+main h2{
+    font-size: 20px;
+    font-family: arial ;
+}
+main h3{
+    font-size: 20px;
+    font-family: arial ;
+    margin-left: 240px;
+    padding-bottom: 20px;
+
+}
+.ah2{
+    color: white;
+    border: 20px solid darkgreen;
+    background-color: darkgreen;
+    margin-left: 240px;
+    border-radius: 15px;
+    padding: 0px 2px 2px 2px;
+    font-size: 24px;
+    
+    
+}
+.karapuz a {
+    text-decoration: none;
+}
+
+main a{
+    text-decoration: none;
+}
+
+.rproducts{
+    display: flex;
+    
+    background-color:white;
+    margin-left: 150px;
+    margin-right: 150px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: -30px;
+
+}.rproducts h1{
+    margin-left: -4opx;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+.rproduct{
+    text-align: center;
+    width: 380px;
+    flex-wrap: wrap;   
+}
+
+.rproduct2{
+    text-align: center;
+    width: 380px;
+    flex-wrap: wrap;
+    background-color: #DCFBF5;
+    margin-top: 42px;
+
+}
+
+.rproduct a{
+    text-align: left;
+    padding-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+    color: black;
+    font: arial bold;
+}
+.rproduct2 a{
+    text-align: left;
+    padding-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+    color: black;
+    font: arial bold;
+    
+}
+.rproductsm a{
+    font: arial;
+    text-decoration: none;
+    color: black;
+}
+
+.rproductsm{
+    width: 400px;
+    margin-left: 80px;
+    text-align: right;
+
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+
+
+}
+.rproductsm img{
+    float: left;
+    padding-left: 10px;
+    width: 100px;
+    height: 100px;
+}
+.rproductsm p{
+
+    width: 440px;
+
+}
+.finale{
+    display: flex;
+    
+    background-color:white;
+    margin-top: 250px;
+    margin-left: 150px;
+    margin-right: 150px;
+    flex-wrap: wrap;
+}
+
+.card{
+    justify-content: left;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    text-align: center;
+    width: 330px;
+    padding-bottom: 70px;
+    padding-right: 20px;
+    
+
+}
+.card h2{
+    float: left;
+    
+}
+
+.cards{
+    display: flex;
+    
+    background-color:white;
+    margin-left: 150px;
+    margin-right: 150px;
+    flex-wrap: wrap;
+    justify-content: left;
+
+
+}
+
+.cards h2{
+    font-size: 24px;
+}
+.rec{
+    
+    
+    background-color:white;
+    margin-left: 150px;
+    margin-right: 150px;
+    flex-wrap: wrap;
+    justify-content: left;
+    margin-bottom: -30px;
+
+
+}
+.ch2{
+    color: white;
+    border: 20px solid darkgreen;
+    background-color: darkgreen;
+    border-radius: 15px;
+    padding: 0px 2px 2px 2px;
+    font-size: 24px;
+    
+}
+.ch2b{
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+}
+
+.prem{
+    background-color: #262E2F;
+    width: 1020px;
+    height: 600px;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+.premcard p{
+    color: white;
+    margin-left: 10px;
+    padding-bottom: 20px;
+    
+    
+}
+.premcard h2{
+    color: white;
+    margin-left: 10px;
+}
+.premcard img{
+    float: right;
+}
+
+.premcard{
+    padding-bottom: 80px;
+}
